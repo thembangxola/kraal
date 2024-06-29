@@ -1,4 +1,4 @@
-**Kraal: Your Secure and Simplified Payment Hub**
+**Kraal - Your Secure and Simplified Payment Hub**
 
 **Kraal** empowers you to manage your finances effortlessly with a focus on security, convenience, and clear visualization. Our innovative platform streamlines your financial activities, putting you in complete control of your money.
 
